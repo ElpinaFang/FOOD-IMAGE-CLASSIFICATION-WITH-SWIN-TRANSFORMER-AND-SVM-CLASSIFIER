@@ -1,5 +1,5 @@
 # FOOD-IMAGE-CLASSIFICATION-WITH-SWIN-TRANSFORMER-AND-SVM-CLASSIFIER-
-The dataset Food-101 is analyzed by evaluating and comparing the performance of five state-of-the-art models, they are MobileNetV3, ResNet50, EfficientNetV2, CoAtNet, and Swin Transformer. Subsequently, the research proceeds with the implementation of Support Vector Machine (SVM).
+The dataset Food-101 is analyzed by evaluating and comparing the performance of five state-of-the-art models, they are MobileNetV3, ResNet50, EfficientNetV2, CoAtNet, and Swin Transformer. Subsequently, the research proceeds with the implementation of Support Vector Machine (SVM)
 
 ## Food101 Dataset
 The Food-101 dataset is widely recognized as a prominent benchmark dataset for image classification tasks specifically focused on food recognition. It comprises a diverse collection of 101 distinct food categories, each containing 1,000 images. These images were sourced from various online recipe websites and contributed by both professional and amateur photographers, resulting in a rich and challenging dataset.
